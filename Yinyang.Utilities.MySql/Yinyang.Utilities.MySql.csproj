@@ -4,11 +4,11 @@
     <TargetFrameworks>net472;net48;net481;netstandard2.1;net6;net7;net8</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>MySql, MariaDB Connection Utility for C#.</Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Yinyang</Authors>
     <Product>Yinyang Utilities MySql</Product>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <Copyright>Copyright 2023 Yinyang</Copyright>
+    <Copyright>Copyright 2024 Yinyang</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://github.com/yinyangtm/Yinyang.Utilities.MySql</PackageProjectUrl>
     <RepositoryUrl>https://github.com/yinyangtm/Yinyang.Utilities.MySql.git</RepositoryUrl>
