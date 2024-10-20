@@ -4,7 +4,7 @@
     <TargetFrameworks>net472;net48;net481;netstandard2.1;net6;net7;net8</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>MySql, MariaDB Connection Utility for C#.</Description>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Yinyang</Authors>
     <Product>Yinyang Utilities MySql</Product>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -25,7 +25,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
-    <PackageReference Include="MySql.Data" Version="9.0.0" />
+    <PackageReference Include="MySql.Data" Version="9.1.0" />
   </ItemGroup>
 
   <ItemGroup>
