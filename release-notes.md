@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.0.3 (10/20/2024)
+
+* Update MySql.Data version 9.1.0.
+
 ## v1.0.2 (08/03/2024)
 
 * Update MySql.Data version 9.0.0.
