@@ -1,5 +1,10 @@
 # Release Notes
 
+## v1.0.4 (02/08/2025)
+
+* Update MySql.Data version 9.2.0.
+* Add TargetFrameworks .NET 9.
+
 ## v1.0.3 (10/20/2024)
 
 * Update MySql.Data version 9.1.0.
